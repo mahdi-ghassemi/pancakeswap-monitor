@@ -4,9 +4,9 @@
 
 </p>
 <br/>
-# Monitoring PancakeSwap for tracing buy event
+<h1> Monitoring PancakeSwap for tracing buy event </h1>
 
-> PHP code only
+> PHP code only <br/>
 > <a href="https://moralis.io/"> Moralis API </a> required
 
 ## Problem
